@@ -23,8 +23,6 @@ Dice Game is a simple website for playing a dice game. It was created using HTML
 
 Include screenshots or GIFs showcasing different sections of your Dice Game website.
 
-![Screenshot 1]([https://github.com/mubinakib5/Dice-Challenge/blob/main/images/dice1.png](https://github.com/mubinakib5/Dice-Challenge/blob/main/images/Hero-Section.png])
-
 ## Technologies Used
 
 - HTML
